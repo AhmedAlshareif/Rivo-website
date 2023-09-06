@@ -32,56 +32,6 @@ ul {
     margin: 0 auto;
 }
 
-/* header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin: 0 auto;
-    padding-top: 3%;
-    background: #C2EFD4;
-
-}
-
-#navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    color: #224F34;
-    font-family: Poppins;
-    line-height: normal;
-    text-transform: uppercase;
-
-}
-
-.nav {
-    width: 40%;
-}
-
-a {
-    text-decoration: none;
-    color: #224F34;
-    font-family: Poppins;
-    font-size: 22px;
-    font-weight: 500;
-    text-transform: uppercase;
-}
-
-li {
-    list-style: none;
-}
-
-.but {
-    width: 142px;
-    height: 52px;
-    color: #224F34;
-    background: #C2EFD4;
-    font-family: Poppins;
-    text-transform: uppercase;
-    font-size: 20px;
-    color: rgb(10, 140, 40);
-    border-radius: 3px;
-    border: 2px solid #224F34;
-} */
 header .content {
     display: flex;
     justify-content: space-between;
@@ -110,6 +60,7 @@ header .logo a {
     color: #224F34;
     font-family: Elephant;
     font-size: 40px;
+    font-weight: 400;
     text-transform: uppercase;
 }
 
