@@ -33,6 +33,7 @@ ul {
 }
 
 header .content {
+    padding-top: 2%;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
